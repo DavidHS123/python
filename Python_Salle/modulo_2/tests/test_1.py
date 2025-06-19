@@ -28,7 +28,7 @@ print("b) Dar instrucciones a una computadora para resolver problemas")
 print("c) Usar la computadora solo para tareas básicas")
 print("d) Aprender a usar programas de Office")
 
-# Esperamos la respuesta del usuario ý la convertimos a minúsculas para facilitar la comparación
+# Esperamos la respuesta del usuario y la convertimos a minúsculas para facilitar la comparación
 respuesta = input("Tu respuesta: ").lower()
 
 # Verificamos la respuesta
